@@ -1,0 +1,31 @@
+=== Initialize the shopping carts ===
+Enter the number of shopping cart (1..10): === Simplified Retail System ===
+=== Menu ===
+1: Display the current lists
+2: Insert a new stock item to the stock item list
+3: Update the price of the stock item
+4: Insert/Add a number of stock items to a shopping cart
+5: Remove an item from the shopping cart
+6: Deduct a number of stock items from a shopping cart
+7: Remove an item from the stock item list
+8: Checkout and clear a shopping cart
+9: Exit the system
+Enter your option: === StockItem List (id[price]) ===
+No items in the StockItem list
+=== StockItem titles ===
+No StockItem titles
+=== Shopping carts ===
+Cart 0: No items in the shopping cart
+Cart 1: No items in the shopping cart
+Cart 2: No items in the shopping cart
+=== Menu ===
+1: Display the current lists
+2: Insert a new stock item to the stock item list
+3: Update the price of the stock item
+4: Insert/Add a number of stock items to a shopping cart
+5: Remove an item from the shopping cart
+6: Deduct a number of stock items from a shopping cart
+7: Remove an item from the stock item list
+8: Checkout and clear a shopping cart
+9: Exit the system
+Enter your option: 

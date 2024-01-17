@@ -1,0 +1,118 @@
+=== Initialize the shopping carts ===
+Enter the number of shopping cart (1..10): === Simplified Retail System ===
+=== Menu ===
+1: Display the current lists
+2: Insert a new stock item to the stock item list
+3: Update the price of the stock item
+4: Insert/Add a number of stock items to a shopping cart
+5: Remove an item from the shopping cart
+6: Deduct a number of stock items from a shopping cart
+7: Remove an item from the stock item list
+8: Checkout and clear a shopping cart
+9: Exit the system
+Enter your option: Enter a ID: Enter a title: Enter a price in cents: item002 is successfully inserted
+=== Menu ===
+1: Display the current lists
+2: Insert a new stock item to the stock item list
+3: Update the price of the stock item
+4: Insert/Add a number of stock items to a shopping cart
+5: Remove an item from the shopping cart
+6: Deduct a number of stock items from a shopping cart
+7: Remove an item from the stock item list
+8: Checkout and clear a shopping cart
+9: Exit the system
+Enter your option: Enter a ID: Enter a title: Enter a price in cents: item001 is successfully inserted
+=== Menu ===
+1: Display the current lists
+2: Insert a new stock item to the stock item list
+3: Update the price of the stock item
+4: Insert/Add a number of stock items to a shopping cart
+5: Remove an item from the shopping cart
+6: Deduct a number of stock items from a shopping cart
+7: Remove an item from the stock item list
+8: Checkout and clear a shopping cart
+9: Exit the system
+Enter your option: Enter a ID: Enter a title: Enter a price in cents: item003 is successfully inserted
+=== Menu ===
+1: Display the current lists
+2: Insert a new stock item to the stock item list
+3: Update the price of the stock item
+4: Insert/Add a number of stock items to a shopping cart
+5: Remove an item from the shopping cart
+6: Deduct a number of stock items from a shopping cart
+7: Remove an item from the stock item list
+8: Checkout and clear a shopping cart
+9: Exit the system
+Enter your option: === StockItem List (id[price]) ===
+item001[$10.00] -> item002[$20.00] -> item003[$5.00]
+=== StockItem titles ===
+item001: Milk
+item002: Tea
+item003: Apple
+=== Shopping carts ===
+Cart 0: No items in the shopping cart
+Cart 1: No items in the shopping cart
+Cart 2: No items in the shopping cart
+=== Menu ===
+1: Display the current lists
+2: Insert a new stock item to the stock item list
+3: Update the price of the stock item
+4: Insert/Add a number of stock items to a shopping cart
+5: Remove an item from the shopping cart
+6: Deduct a number of stock items from a shopping cart
+7: Remove an item from the stock item list
+8: Checkout and clear a shopping cart
+9: Exit the system
+Enter your option: Enter a shopping cart ID (valid: 0 to 2): Enter a ID: Add a quantity: item001 is successfully inserted/updated
+=== Menu ===
+1: Display the current lists
+2: Insert a new stock item to the stock item list
+3: Update the price of the stock item
+4: Insert/Add a number of stock items to a shopping cart
+5: Remove an item from the shopping cart
+6: Deduct a number of stock items from a shopping cart
+7: Remove an item from the stock item list
+8: Checkout and clear a shopping cart
+9: Exit the system
+Enter your option: Enter a shopping cart ID (valid: 0 to 2): Enter a ID: Add a quantity: item003 is successfully inserted/updated
+=== Menu ===
+1: Display the current lists
+2: Insert a new stock item to the stock item list
+3: Update the price of the stock item
+4: Insert/Add a number of stock items to a shopping cart
+5: Remove an item from the shopping cart
+6: Deduct a number of stock items from a shopping cart
+7: Remove an item from the stock item list
+8: Checkout and clear a shopping cart
+9: Exit the system
+Enter your option: Enter a ID: item001 is removed from the goods list
+=== Menu ===
+1: Display the current lists
+2: Insert a new stock item to the stock item list
+3: Update the price of the stock item
+4: Insert/Add a number of stock items to a shopping cart
+5: Remove an item from the shopping cart
+6: Deduct a number of stock items from a shopping cart
+7: Remove an item from the stock item list
+8: Checkout and clear a shopping cart
+9: Exit the system
+Enter your option: === StockItem List (id[price]) ===
+item002[$20.00] -> item003[$5.00]
+=== StockItem titles ===
+item002: Tea
+item003: Apple
+=== Shopping carts ===
+Cart 0: item003: 4
+Cart 1: No items in the shopping cart
+Cart 2: No items in the shopping cart
+=== Menu ===
+1: Display the current lists
+2: Insert a new stock item to the stock item list
+3: Update the price of the stock item
+4: Insert/Add a number of stock items to a shopping cart
+5: Remove an item from the shopping cart
+6: Deduct a number of stock items from a shopping cart
+7: Remove an item from the stock item list
+8: Checkout and clear a shopping cart
+9: Exit the system
+Enter your option: 

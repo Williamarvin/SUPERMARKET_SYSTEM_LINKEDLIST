@@ -1,0 +1,15 @@
+3
+2
+item002
+Tea
+2000
+2
+item001
+Milk
+1000
+2
+item003
+Apple
+500
+1
+9
